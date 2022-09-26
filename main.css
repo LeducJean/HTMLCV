@@ -1,0 +1,39 @@
+#blocnoir {
+    background-color: black;
+    width: 40%;
+    height: 95%;
+    float: left;
+    position: absolute;
+    opacity: 50%;
+}
+
+
+#image {
+    block-size: 250px;
+    
+}
+
+
+#h1 {
+    color:#a36458;
+    font-size:1.5cm;
+    font-weight:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0%;
+    margin-left:45%;
+    margin-block-end:0%;
+}
+
+
+#h2 {
+    color: rgb(82, 116, 139);
+    font-size:100%;
+    font-weight: 400%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 45%;
+}
+
+
+.police {
+    
+}
